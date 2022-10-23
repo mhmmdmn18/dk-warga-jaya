@@ -84,7 +84,7 @@ header.scrolled {
 }
 .nav-right a {
 	font-weight: bold;	
-	color: #10c767;
+	color: #00ab6c;
 	display: inline-block;
 	background-color: #fff;
 	border-radius: 20px;
@@ -94,12 +94,12 @@ header.scrolled {
 .nav-right a:hover {
 	font-weight: bold;
 	color: #fff;
-	background-color: #10c767;
+	background-color: #00ab6c;
 }
 .nav-right .active {
 	font-weight: bold;
 	color: #fff;
-	background-color: #10c767;
+	background-color: #00ab6c;
 }
 .burger {
 	width: 30px;
